@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">event</string>
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>:</item>
+    </string-array>
+    <string-array name="technology">
+        <item>Javascript</item>
+        <item>C++</item>
+        <item>Python</item>
+        <item>Java</item>
+        <item>PHP</item>
+    </string-array>
+</resources>
